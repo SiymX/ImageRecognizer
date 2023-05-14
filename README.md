@@ -67,8 +67,7 @@ python ImageRecognizer.py
 ```
 4. The application window will appear and there you can click on the "Open Image" button to select an image to classify.
 The supported formats include JPG, JPEG, PNG, and GIF.
-5. The selected image will get displayed and also will analyze the image using the pre-trained ResNet-50 model and
-display the confidence level as well as the predicted class.
+5. The selected image will get displayed and also will analyze the image using the pre-trained ResNet-50 model and display the confidence level as well as the predicted class.
 
 
 
