@@ -1,6 +1,7 @@
-# ImageRecognizer
-![senimage](https://github.com/SiymX/ImageRecognizer/assets/63435885/031cc41e-46eb-4ffb-9942-3cbea048a468)
 
+![imagerecGIT](https://github.com/SiymX/ImageRecognizer/assets/63435885/a36ebe6a-1fd2-45ef-8af4-146ef8b822cc)
+
+# ImageRecognizer
 This is a Python-based Graphical User Interface (GUI) application for image recognition which uses a 
 pre-trained ResNet-50 model. The application allows users to select an iamge file (JPG, JPEG, PNG, or GIF), and
 it will predict the class of the image.
